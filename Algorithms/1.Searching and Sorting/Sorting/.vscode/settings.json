@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "array": "cpp",
+        "fstream": "cpp",
+        "shared_mutex": "cpp",
+        "sstream": "cpp",
+        "tuple": "cpp"
+    }
+}
